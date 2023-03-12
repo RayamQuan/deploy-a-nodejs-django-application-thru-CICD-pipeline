@@ -3,23 +3,8 @@
 # Heroku: python.django.drf.node.react.postgres.fullstack.app
 Bank App is for making CRUD function between the User and Database. You be able to create accounts, branches and you can edit or delete from your browser and database.
 
-[Backend](https://bank-django-drf-local.herokuapp.com/)<br>
-[Frontend](https://bank-drf-react-frontend.herokuapp.com/login)
-## Demo Users
-Interactable User's for login/authentication
-
-username:  admin<br>
-password: admin
-
-username: admin2<br>
-password: adminadmin11
-
-username: admin => login into database [admin](https://bank-django-drf-local.herokuapp.com/admin/) page<br>
-password: admin <br>
-
-You can also register your own users in order to login into the app
 ## Installation 
-In order to run this app you need to install Django to interact with your database tables and install React to build a user interface. You can follow the instruction below to get this started.<br>
+In order to run this app you need to install Django to interact with your database tables and install React to build a user interface. You can follow the instruction below to get this started.
 ([Django](https://www.djangoproject.com/)) use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
